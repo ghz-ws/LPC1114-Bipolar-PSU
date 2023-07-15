@@ -8,3 +8,4 @@ PCB is available from https://ghz-ws.booth.pm/items/4923300
 ![IMG_5200](https://github.com/ghz-ws/LPC1114-Bipolar-PSU/assets/52226620/4c77625f-605f-4a70-a5d4-bc7c00418881)
 ![IMG_5199](https://github.com/ghz-ws/LPC1114-Bipolar-PSU/assets/52226620/929fcddf-da7f-4d26-9ae2-ab1f20fd062f)
 ![IMG_5197](https://github.com/ghz-ws/LPC1114-Bipolar-PSU/assets/52226620/54061d2b-16c2-4fda-8828-689694cda049)
+![DSC_0002](https://github.com/ghz-ws/LPC1114-Bipolar-PSU/assets/52226620/5370df63-d38e-4301-af2c-6aa63eb394b2)

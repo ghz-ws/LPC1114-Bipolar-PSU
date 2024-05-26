@@ -199,6 +199,7 @@ int main(){
         }else if((en_p==0)&&(on==0)){  //sw on changed
             i_set(is);
             rc=1;
+            thread_sleep_for(200);
             v_set(vs);
             dac_send(0,65535);//enable
             en_p=1;
